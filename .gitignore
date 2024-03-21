@@ -1,0 +1,5 @@
+.env
+# Ignore .exe files
+*.exe
+*.wav
+*.mp3
